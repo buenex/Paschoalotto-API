@@ -1,0 +1,14 @@
+E:\GitFolders\Paschoalotto-API\bin\Debug\netcoreapp2.2\Paschoalotto-API.deps.json
+E:\GitFolders\Paschoalotto-API\bin\Debug\netcoreapp2.2\Paschoalotto-API.runtimeconfig.json
+E:\GitFolders\Paschoalotto-API\bin\Debug\netcoreapp2.2\Paschoalotto-API.runtimeconfig.dev.json
+E:\GitFolders\Paschoalotto-API\bin\Debug\netcoreapp2.2\Paschoalotto-API.dll
+E:\GitFolders\Paschoalotto-API\bin\Debug\netcoreapp2.2\Paschoalotto-API.pdb
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.csprojAssemblyReference.cache
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.csproj.CoreCompileInputs.cache
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.RazorAssemblyInfo.cache
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.RazorAssemblyInfo.cs
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.AssemblyInfoInputs.cache
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.AssemblyInfo.cs
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.RazorTargetAssemblyInfo.cache
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.dll
+E:\GitFolders\Paschoalotto-API\obj\Debug\netcoreapp2.2\Paschoalotto-API.pdb
